@@ -1,0 +1,3 @@
+# config.yaml
+INPUT_PATH: "data/input/datos.csv"
+OUTPUT_PATH: "data/output/datos_transformados.csv"
